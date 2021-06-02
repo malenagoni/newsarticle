@@ -94,7 +94,7 @@ export default function ArticlesList() {
         }
     }
   return (
-    <div style={{ height: 650, width: '100%', display: 'flex', flexGrow: 1}}>
+    <div style={{ height: 750, width: '100%', display: 'flex', flexGrow: 1}}>
       {/* <div style={{ display: 'flex', height: '100%' }}>
         <div style={{ flexGrow: 1 } }> */}
           <DataGrid 
